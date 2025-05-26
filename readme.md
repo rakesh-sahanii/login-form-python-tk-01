@@ -15,6 +15,7 @@ This project demonstrates basic user authentication with a username and password
 ## Sneak Peak
 <div style="text-align:center;"><img src="assets\screenshot.gif" style="height:300px; text-align:center;">
 </div>
+
 ## Requirements
 
 - Python 3.x  
